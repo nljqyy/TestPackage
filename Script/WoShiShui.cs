@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WoShiShui : MonoBehaviour
+namespace XueXi
 {
+  public class WoShiShui : MonoBehaviour
+   {
     // Start is called before the first frame update
     void Start()
     {
@@ -15,4 +17,5 @@ public class WoShiShui : MonoBehaviour
     {
         Debug.Log("WoShiShui........Update");
     }
+   }
 }
