@@ -1,0 +1,14 @@
+{
+"name": "com.woshi.test",
+"version": "0.1.13",
+"displayName": "TestPackage",
+"unity": "2018.4.2",
+"description": "test",
+"keywords": ["Log"],
+"category": "Plugins",
+"author": {
+"name": "wo"
+},
+"dependencies": {
+}
+}
